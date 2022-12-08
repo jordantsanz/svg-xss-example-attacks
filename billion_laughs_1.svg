@@ -3,5 +3,5 @@
 <!ENTITY lab "cool, text as an image">
 ]>
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
-    <text>&lab;</text>
+    <text x="0" y="20" font-size="20">&lab;</text>
 </svg>
