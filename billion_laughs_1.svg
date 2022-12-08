@@ -3,6 +3,10 @@
 <!ENTITY lab "lol">
 <!ENTITY lab2 "&lab;&lab;&lab;&lab;&lab;&lab;&lab;&lab;&lab;">
 <!ENTITY lab3 "&lab2;&lab2;&lab2;&lab2;&lab2;&lab2;&lab2;&lab2;">
+<!ENTITY lab4 "&lab3;&lab3;&lab3;&lab3;&lab3;&lab3;&lab3;&lab3;&lab3;&lab3;">
+<!ENTITY lab5 "&lab4;&lab4;&lab4;&lab4;&lab4;&lab4;&lab4;&lab4;&lab4;&lab4;&lab4;">
+<!ENTITY lab6 "&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;&lab5;">
+<!ENTITY lab7 "&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;&lab6;">
 ]>
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
     <text x="0" y="20" font-size="20">&lab3;</text>
